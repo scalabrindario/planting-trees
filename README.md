@@ -38,6 +38,10 @@ In this scenario, we want to find the minimum decrease of gas emissions required
 
 From our computations, we obtained that we need to decrease the amount of CO2 to 16%, if we want to achieve the 1.5°C threshold by 2050. The situation is even better in 4B and 4C, where we sequester CO2
 
+## Collaborators
+- [Dario Scalabrin](https://www.linkedin.com/in/scalabrindario/)
+- [Filippo Giustiniani](https://www.linkedin.com/in/filippo-g-0b5583131/)
+- [Lorenzo Vella](https://www.linkedin.com/in/lorenzo-vella-a024721bb/)
 
 
 ## References
