@@ -53,3 +53,6 @@ From our computations, we obtained that we need to decrease the amount of CO2 to
 <a id="6">[6]</a> Growing Acacia, Herbazest, Published on 18 June 2020, Accessed on 18 December 2021,  https://www.herbazest.com/herb-garden/growing-acacia <br>
 <a id="7">[7]</a> Trees help tackle climate change, European Environment Agency, Published on 06 January 2012, Accessed on 18 December 2021, https://www.eea.europa.eu/articles/forests-health-and-climate-change/key-facts/trees-help-tackle-climate-change
 
+## License 
+[MIT](https://choosealicense.com/licenses/mit/)
+
